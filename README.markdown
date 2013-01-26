@@ -17,6 +17,11 @@ from github master branch
 ```
 >>> pip install git+https://github.com/douglasmiranda/django-admin-bootstrap
 ```
+
+or clone the master branch in your machine
+```
+>>> git clone https://github.com/douglasmiranda/django-admin-bootstrap
+```
 **NOTE:** I'm assuming you use [pip](http://www.pip-installer.org/) to install the Python Packages.
 
 And don't forget it to add *bootstrap_admin* in **INSTALLED_APPS** before the *django.contrib.admin*.
@@ -39,6 +44,4 @@ Fork if you want to contribute, [open an issue](https://github.com/douglasmirand
 
 **TODO:**
 
-* Customize another form widgets
 * ~~Test on IE :P~~
-* Maybe write an app that makes use of all django widgets for better tests

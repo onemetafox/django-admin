@@ -9,7 +9,6 @@ Project Lead
 Developers
 ----------
 
-* @alrusdi
 * Evan Borgstrom (@borgstrom)
 * James Pic (@jpic)
 * Silvano Nogueira (@snbuback)

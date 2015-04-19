@@ -1,10 +1,9 @@
 History
 -------
 
-- 0.3.6 Apr 19, 2015
+-  Apr 09, 2015
 
-   -   Django 1.8 Compatibility #80
-   -   Fix .place-info-actions height
+   -   Django 1.8 Compatibility
 
 -  0.3.5 Mar 11, 2015
 

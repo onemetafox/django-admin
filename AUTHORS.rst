@@ -9,7 +9,8 @@ Project Lead
 Developers
 ----------
 
-* (@mindfuucker)
+* Dillon Lareau (@dlareau)
+* R.J. van Lierop(@mindfuucker)
 * Gilson Paulino (@gilsonbp)
 * Cristóbal Mackenzie (@cmackenziek)
 * ygneo

@@ -14,15 +14,6 @@ Features
 * Python 3
 
 
-Screenshots
------------
-
-.. image:: https://raw.githubusercontent.com/douglasmiranda/django-admin-bootstrap/master/screenshots/screenshot.png
-    :target: https://github.com/douglasmiranda/django-admin-bootstrap/tree/master/screenshots
-    :alt: See Screenshots
-
-`More screenshots <https://github.com/douglasmiranda/django-admin-bootstrap/tree/master/screenshots>`_
-
 INSTALL
 -------
 
@@ -151,9 +142,4 @@ Contributing
 2. Create your feature branch: ``git checkout -b my-new-feature``
 3. Commit your changes: ``git commit -am 'Add some feature'``
 4. Push to the branch: ``git push origin my-new-feature``
-5. Submit a pull request =]
 
-See the `full list <https://github.com/douglasmiranda/django-admin-bootstrap/blob/master/AUTHORS.rst>`_ of contributors.
-
-`Open an issue <https://github.com/douglasmiranda/django-admin-bootstrap/issues/new>`_
-if you find a bug or want something more.
